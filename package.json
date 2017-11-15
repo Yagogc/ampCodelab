@@ -10,6 +10,9 @@
     "I/O 2017",
     "Codelab"
   ],
+  "scripts": {
+    "start": "node app.js"
+  },
   "author": "choumx@ampproject.org",
   "license": "Apache-2.0",
   "dependencies": {
