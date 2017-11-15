@@ -10,10 +10,6 @@
     "I/O 2017",
     "Codelab"
   ],
-  // "repository": {
-  //   "type": "git",
-  //   "url": "https://github.com/googlecodelabs/advanced-interactivity-in-amp.git"
-  // },
   "author": "choumx@ampproject.org",
   "license": "Apache-2.0",
   "dependencies": {
